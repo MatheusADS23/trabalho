@@ -1,0 +1,36 @@
+body{background-color:rgb(235, 198, 203);}
+
+
+h1 {color:purple; text-align: center;}
+h2{ text-align:left}
+
+p {font-size: 19px;text-align: justify;line-height: 1.4;}
+
+    li {margin-bottom: 15px; font-size: 18px;}
+
+        img {width: auto;height: auto;
+            border-radius: 15px;}
+
+
+
+
+table {width: 30%;border-collapse: collapse;
+    margin: 20px left;
+     font-family: Arial, sans-serif;}
+
+
+
+/* parte de cima*/
+thead {background-color:black;
+    color: white;}
+
+th {padding: 14px;text-align: left;}
+
+
+/* partes da tanela */
+td {padding: 10px; border-bottom: 1px solid black;}
+
+
+
+/* lembrar mouuse movimento da tabela */
+body tr:hover {background-color:purple;}
